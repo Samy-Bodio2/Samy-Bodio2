@@ -74,3 +74,18 @@ I am Samy Bodio Ongla, a passionate and competent IT developer. I have notable e
   <img src="https://custom-icon-badges.demolab.com/badge/AndroidStudio-Intermediate-indigo.svg?logo=android-studio" alt="java" />
 </p>
 
+##  📊Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samy-Bodio2&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samy-Bodio2&layout=compact" alt="Most Used Languages" />
+</p>
+
+#
+
+<details>
+  <summary><h3>Samy Bodio's coding journey</h3></summary>
+  As a young student passionate about programming and technologies, when I am not in class or in business, I work on projects that I am passionate about. I have developed several applications on various platforms such as native android, multiplatform, web and desktop. Every day is an opportunity to learn new things.
+</details>
