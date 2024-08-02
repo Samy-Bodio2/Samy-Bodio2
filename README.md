@@ -50,5 +50,27 @@ I am Samy Bodio Ongla, a passionate and competent IT developer. I have notable e
 </p>
 
 ##  🗄️Database
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Postgresql-Intermediate-brown.svg?logo=postgresql&logoColor=white" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Mysql-Advanced-cyan.svg?logo=mysql&logoColor=white" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-Intermediate-silver.svg?logo=oracle" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/MongoDb-Intermediate-navy.svg?logo=mongodb" alt="java" />
+</p>
 
+##  🛠️Tools and technologies
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Postman-Intermediate-orange.svg?logo=postman" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Npm-Intermediate-silver.svg?logo=npm" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Jira-Intermediate-pink.svg?logo=jira" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Clickup-Intermediate-teal.svg?logo=clickup" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Linux-Intermediate-navy.svg?logo=linux" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Git-Intermediate-olive.svg?logo=git" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Docker-Intermediate-teal.svg?logo=docker" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/MongoDb-Intermediate-indigo.svg?logo=heroku" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Heroku-Intermediate-beige.svg?logo=aws" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Vscode-Intermediate-green.svg?logo=vs-code" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VisualStudio-Intermediate-maroon.svg?logo=visual-studio" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Idea-Intermediate-magenta.svg?logo=intellij-idea" alt="java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AndroidStudio-Intermediate-indigo.svg?logo=android-studio" alt="java" />
+</p>
 
