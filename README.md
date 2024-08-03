@@ -37,7 +37,7 @@ I am Samy Bodio Ongla, a passionate and competent IT developer. I have notable e
   <img src="https://custom-icon-badges.demolab.com/badge/AdobeXd-Advanced-red.svg?logo=adobexd" alt="adobexd" />
 </p>
 
-## ⚙️Frontend Skills
+## ⚙️Backend Skills
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Java-Advanced-red.svg?logo=java&logoColor=white" alt="java" />
   <img src="https://custom-icon-badges.demolab.com/badge/Spring-Advanced-green.svg?logo=spring" alt="spring" />
