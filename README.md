@@ -81,6 +81,10 @@ I am Samy Bodio Ongla, a passionate and competent IT developer. I have notable e
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samy-Bodio2&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samy-Bodio2&layout=compact" alt="Most Used Languages" />
 </p>
 
